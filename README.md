@@ -1,6 +1,14 @@
 # Проект: Путешествие по России
 
----
+## Описание
+
+------
 Сайт с информацией и картинками о различных местах России, которые стоит посетить.
 
-* [Ссылка на сайт github pages](https://weerbeck.github.io/russian-travel/)
+## Используемые технологии
+
+------
+HTML, CSS, БЭМ, Nested, Flex, Grid
+
+
+[Ссылка на проект загруженный на github pages](https://weerbeck.github.io/russian-travel/)
