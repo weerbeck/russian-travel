@@ -14,7 +14,6 @@
 
 @media screen and (max-width: 1023px) {
     .place__image {
-        max-width: fit-content;
         width: calc(340px + (100% - 352px - 340px - 28px)/2);
         margin: 0 28px 0 0;
     }
@@ -22,7 +21,6 @@
 
 @media screen and (max-width: 767px) {
     .place__image {
-        max-width: fit-content;
         width: 100%;
         margin: 0;
     }

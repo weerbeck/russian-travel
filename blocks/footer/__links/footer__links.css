@@ -23,7 +23,7 @@
         margin: 0 0 48px 0;
     }
 
-    .footer__links>li:not(:last-of-type) {
+    .footer__links>.footer__link-element:not(:last-of-type) {
         margin: 0 0 32px 0;
     }
 }

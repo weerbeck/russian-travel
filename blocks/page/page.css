@@ -1,6 +1,6 @@
 .page {
     -webkit-font-smoothing: antialiased;
-    font-family: 'Inter', serif;
+    font-family: 'Inter', sans-serif;
     display: flex;
     flex-direction: column;
     align-items: center;
