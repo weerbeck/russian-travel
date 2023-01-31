@@ -3,12 +3,12 @@
     box-sizing: border-box;
     padding: 0 48px 0 48px;
     width: 100%;
-    height: calc((1280px - 96px)  * 0.625);
+    min-height: calc((1280px - 96px)  * 0.625);
 }
 
 @media screen and (max-width: 1279px) {
     .cover {
         padding: 0;
-        height: calc((100vw) * 0.625);
+        min-height: calc((100vw) * 0.625);
     }
 }

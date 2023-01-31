@@ -1,0 +1,9 @@
+.footer__link-element:not(:last-of-type) {
+    margin: 0 18px 0 0;
+}
+
+@media screen and (max-width: 767px) {
+    .footer__link-element:not(:last-of-type) {
+        margin: 0 0 32px 0;
+    }
+}
